@@ -1,3 +1,3 @@
 ## Docker Lab
-<img src="klaudekode.image/1.png" alt=" ">
-<img src="klaudekode.image/2.png" alt=" ">
+<img src="Class activities/git.notes.image/1.png" alt=" ">
+<img src="Class activities/git.notes.image/2.png" alt=" ">
