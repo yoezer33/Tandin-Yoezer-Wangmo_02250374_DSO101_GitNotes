@@ -36,11 +36,14 @@ docker restart <container>    # Restart a container (equivalent to stop then sta
 docker rm <container>         # Remove a stopped container (use -f to force remove a running container)
 ```
 ## Sreenshots
-- 1.png =docker ps
-- 2.png = docker ps -a
-- 3.png = docker stop
+- docker ps
+<img src="1.png" alt="image">
+- docker ps -a
+<img src="2.png" alt="image">
+- docker stop
+<img src="3.png" alt="image">
 --- 
-### Running Containers
+## Running Containers
 ```bash
 docker run nginx          # Run nginx container
 docker run -it ubuntu bash # Run ubuntu interactively

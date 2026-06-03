@@ -1,3 +1,34 @@
 ## Docker Lab
-<img src="Class activities/git.notes.image/1.png" alt=" ">
-<img src="Class activities/git.notes.image/2.png" alt=" ">
+<img src="images/1.png" alt="image">
+<img src="images/2.png" alt="image">
+<img src="images/3.png" alt="image">
+<img src="images/4.png" alt="image">
+<img src="images/5.png" alt="image">
+<img src="images/6.png" alt="image">
+<img src="images/7.png" alt="image">
+<img src="images/8.png" alt="image">
+<img src="images/9.png" alt="image">
+<img src="images/10.png" alt="image">
+<img src="images/11.png" alt="image">
+<img src="images/12.png" alt="image">
+<img src="images/13.png" alt="image">
+<img src="images/14.png" alt="image">
+<img src="images/15.png" alt="image">
+<img src="images/16.png" alt="image">
+
+## Docker lab 2
+<img src="images/17.png" alt="image">
+<img src="images/18.png" alt="image">
+<img src="images/19.png" alt="image">
+<img src="images/20.png" alt="image">
+<img src="images/21.png" alt="image">
+<img src="images/22.png" alt="image">
+<img src="images/23.png" alt="image">
+<img src="images/24.png" alt="image">
+<img src="images/25.png" alt="image">
+<img src="images/26.png" alt="image">
+<img src="images/27.png" alt="image">
+<img src="images/28.png" alt="image">
+<img src="images/29.png" alt="image">
+<img src="images/30.png" alt="image">
+<img src="images/31.png" alt="image">
